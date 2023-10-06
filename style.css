@@ -1,0 +1,22 @@
+.heading{
+    color: #fff;
+    background-color: #e79292;
+    font-style: oblique;
+    text-align: center;
+    
+}
+
+
+table tr{
+
+    margin-top: 50px;
+    border-collapse: collapse;
+    border: 1px solid #000;
+    width: 50%;
+}
+
+
+th td{
+    border: 1px solid #000;
+    width: 40px;
+}
